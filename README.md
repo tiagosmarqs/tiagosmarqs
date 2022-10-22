@@ -3,6 +3,11 @@
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=blueberry)](https://github.com/tiagosmarqs)
 
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=blueberry" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=blueberry" height = "165">
+</a>
+
 ### Tecnologias que já utilizei
 
 <div align="center">
