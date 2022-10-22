@@ -1,12 +1,10 @@
 ### Olá! Eu sou o Tiago Marques 👋
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=blueberry)](https://github.com/tiagosmarqs)
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=blueberry" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=blueberry" height = "165">
-</a>
+<div align="center">
+  <a href="https://github.com/tiagosmarqs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=blueberry"/>
+</div>
 
 ### Tecnologias que já utilizei
 
