@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Tiago Marques 👋
 
-
+<div align="center">
+  <a href="https://github.com/tiagosmarqs">
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=tiagosmarqs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosmarqs&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ### Tecnologias que já utilizei
 
