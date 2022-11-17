@@ -1,4 +1,4 @@
-### Olá! Eu sou o Tiago Marques 👋
+## Olá! Eu sou o Tiago Marques 👋
 
 <div align="center">
   <a href="https://github.com/tiagosmarqs">
